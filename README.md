@@ -11,4 +11,4 @@ Currently, two official plugins are available:
 # Output
 ![Screenshot 2024-02-29 224008](https://github.com/Jasser-Mrabet/News-App/assets/141030883/8ab58ef8-e9d3-4a28-991b-6178c645de2a)
 ![Screenshot 2024-02-29 224105](https://github.com/Jasser-Mrabet/News-App/assets/141030883/53ff11ac-9b32-4700-9586-2c77188ab75d)
-![Screenshot 2024-02-29 224105](https://github.com/Jasser-Mrabet/News-App/assets/141030883/0dca77da-dced-4e5b-a040-4812e5b5c062)
+![Screenshot 2024-02-29 224033](https://github.com/Jasser-Mrabet/News-App/assets/141030883/7c2a49bc-58e1-4198-bfb7-8906c272a8c6)
