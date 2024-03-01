@@ -1,0 +1,11 @@
+/* Navbar.css */
+.navbar-nav .nav-link {
+    color: #fff; /* Set text color */
+  }
+  
+  .navbar-nav .nav-link:hover {
+    background-color: #007bff; /* Set hover background color */
+    color: #fff; /* Set hover text color */
+    cursor: pointer; /* Add pointer cursor on hover */
+  }
+  
